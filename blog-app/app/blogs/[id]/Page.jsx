@@ -59,4 +59,4 @@ const page = ({ params }) => {
   )
 }
 
-export default page
+export default Page
